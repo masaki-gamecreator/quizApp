@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 82c37ee340cce4c80aa27ea68aa9f74e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quizNumber: {instanceID: 0}
+  - limitTimer: {instanceID: 0}
+  - questionText: {instanceID: 0}
+  - mstDatas: {fileID: 11400000, guid: 6dbc449d4f7fd47dfac1b9c75d0f19e0, type: 2}
+  - answer1Text: {instanceID: 0}
+  - answer2Text: {instanceID: 0}
+  - answer3Text: {instanceID: 0}
+  - answer4Text: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - correctAnswer: {instanceID: 0}
+  - inCorrectAnswer: {instanceID: 0}
+  - correntAnserText: {instanceID: 0}
+  - nextBtnText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
